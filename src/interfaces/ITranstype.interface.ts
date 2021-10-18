@@ -1,0 +1,1 @@
+export type ITranstype = "all" | "swaps" | "mints" | "burns";

@@ -1,0 +1,33 @@
+.a {
+  text-decoration: none;
+}
+
+.lplcEi {
+  width: 27px;
+  height: 27px;
+  border-radius: 16px;
+  box-shadow: rgba(0, 0, 0, 0.075) 0px 6px 10px;
+  background-color: rgb(255, 255, 255);
+  color: rgb(86, 90, 105);
+  z-index: 2;
+}
+
+
+
+.eJnjNO {
+  margin: 0px;
+  min-width: 0px;
+  display: flex;
+  padding: 0px;
+  -webkit-box-align: center;
+  align-items: center;
+  -webkit-box-pack: start;
+  justify-content: flex-start;
+  width: fit-content;
+}
+
+.elwIhs {
+  position: relative;
+  display: flex;
+  flex-direction: row;
+}

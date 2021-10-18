@@ -1,0 +1,13 @@
+.sc-krvtoX {
+  display: grid;
+  gap: 1em;
+  -webkit-box-align: center;
+  align-items: center;
+  grid-template-columns: 20px 3.5fr repeat(3, 1fr);
+}
+
+.hmITYh {
+  height: 1px;
+  background-color: rgb(31, 33, 40);
+  width: 100%;
+}
