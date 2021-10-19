@@ -125,7 +125,7 @@ const Home = () => {
     <>
       <div className="first-section mb-16">
         <p className="text-2xl font-medium mb-4">Pool Watchlist</p>
-        <section className="border border-black rounded-md p-5">
+        <section className="border border-black rounded-md p-5 overflow-x-scroll">
           <Column
             header1="Pool"
             header2="TX Count"
@@ -153,7 +153,7 @@ const Home = () => {
 
       <div className="first-section">
         <p className="text-2xl font-medium mb-4">All Pools</p>
-        <section className="border border-black rounded-md p-5">
+        <section className="border border-black rounded-md p-5 overflow-x-scroll">
           <Column
             header1="Pool"
             header2="TX Count"
